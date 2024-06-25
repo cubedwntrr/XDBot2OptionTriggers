@@ -18,3 +18,8 @@ Then paste the zipped and base64 encoded level string into the input section.
 10. Drag the re-encrypted CCLocalsLevels.dat back into your GeometryDash folder.
 
 In the future, I may try to make this more user friendly, possibly automatically decrypting and encrypting your save file and automatically retrieving your top level.
+
+# NOTES
+
+This script will not work unless vanilla mode is disabled, due to vanilla mode not logging player X. Unfortunately, this can break a lot of levels. To increase accuracy, ensure frame fixes is disabled!
+In the future, I may create a fork of XDBot that logs Player X with vanilla mode enabled.

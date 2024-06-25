@@ -5,7 +5,7 @@ A simple script that converts an XDBot macro to Geometry Dash Option Triggers
 
 1. Install the GD Savefile Editor by WEGFan - https://github.com/WEGFan/Geometry-Dash-Savefile-Editor
 2. Decrypt your CCLocalLevels.dat. Make sure to prettify the XML for easier modifications!
-3. Go into CCLocalLevels.dat.xml and find the level string. This should be 2 lines below the level name, or 1 line below "<k4>". Then copy the level string. Make sure to remove the <s> at the start and </s> at the end.
+3. Go into CCLocalLevels.dat.xml and find the level string. This should be 2 lines below the level name, or 1 line below "<k4>". Then copy the level string. Make sure to remove the "<s>" at the start and "</s>" at the end.
 4. Go to https://cyberchef.org/ and create a recipe, the recipe should be:
                              From Base64 (URL Safe)
                              Gunzip

@@ -21,5 +21,9 @@ In the future, I may try to make this more user friendly, possibly automatically
 
 # NOTES
 
-This script will not work unless vanilla mode is disabled, due to vanilla mode not logging player X. Unfortunately, this can break a lot of levels. To increase accuracy, ensure frame fixes is disabled!
+This script will not work unless vanilla mode is disabled, due to vanilla mode not logging player X. Unfortunately, this can break a lot of levels. To increase accuracy, ensure frame fixes is disabled! Dual portals can also break option trigger converted macros.
 In the future, I may create a fork of XDBot that logs Player X with vanilla mode enabled.
+
+# NOTE 2
+
+This only works with Player 1 macros for the time being
